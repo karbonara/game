@@ -1,0 +1,13 @@
+.main {
+  width: 95vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.form {
+  margin: 24px 0;
+}
+
+td {
+  padding: 23px;
+}
